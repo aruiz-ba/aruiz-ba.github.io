@@ -27,7 +27,7 @@
 }
 
 
-p,li{
+p, li, h5{
 	color : #E8E8E8;
 }
 
@@ -39,15 +39,15 @@ body{
 	background: #2B2B2B;
 	font-family: “Trebuchet MS”, Verdana, Arial, serif;
 }
-#header_background {
+/*#header_background {
 	box-sizing:border-box;
 	width:100%;
 	padding: 10px;
 	background-repeat: no-repeat;
 	background-image: url("images/header_bk.png");
-}
+}*/
 #header_text{
-	color : #4A4A4B;
+	color : #E8E8E8;
 }
 #proyect_titles{
 	color :	#E8E8E8;
@@ -65,4 +65,5 @@ body{
 
 #subtitle{
 	font-size: x-small;
+	color : #B5B5B5;
 }
